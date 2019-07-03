@@ -1,2 +1,2 @@
 # fany-resolusi
-membuat resolusi fany kedepannya
+membuat resolusi untuk kedepannya
